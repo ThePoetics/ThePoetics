@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThePoetics
-- 👀 I’m interested in learning more about using git and what exactly pull requests are
-- 🌱 I’m currently learning what it's like to plan a mobile app project
+- 👀 I’m interested in learning more about using git as a repository for my own projects, past and present
+- 🌱 I’m currently learning what it's like to plan a mobile game project
 - 📫 You can reach me at https://poeticsonline.net, my personal blog where I (occasionally) also write about tech stuff
 
 <!---

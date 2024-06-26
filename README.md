@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThePoetics
-- 👀 I’m interested in learning more about using git as a repository for my own projects, past and present
-- 🌱 I’m currently learning what it's like to plan a mobile game project
+- 👀 I’m interested in learning more about using git as a repository for my own projects, both past and present
+- 🌱 I’m currently learning simple game dev using [Godot](https://godotengine.org/)
 - 📫 You can reach me at https://poeticsonline.net, my personal blog where I (occasionally) also write about tech stuff
 
 <!---
